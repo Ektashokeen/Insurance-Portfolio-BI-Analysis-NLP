@@ -19,7 +19,7 @@ This project focuses on a comprehensive analysis of an insurance company's portf
 | :---: | :--- | :--- |
 | **Data Analysis & BI** | **Power BI** | Data cleaning, modeling (DAX), and interactive visualization. |
 | **Advanced Techniques** | **NLP / Text Analysis** | Processing customer feedback to derive measurable sentiment scores. |
-| **Data Source** | **CSV** (`01_Policy_Data.csv` and `02_Customer_Feedback_Data.csv`) | Source of transactional and customer text data. |
+| **Data Source** | **CSV** (`01_Policy_Data.csv` and `02_Customer_Feedback_Data.xlsx`) | Source of transactional and customer text data. |
 | **Analysis Focus** | **DAX** (Data Analysis Expressions) | Creating custom measures (e.g., Claim Ratio, Average Premium). |
 
 ---
@@ -36,12 +36,12 @@ The Power BI dashboard provides a single source of truth for the insurance portf
 ### 2. Policy and Claim Breakdown
 *This visualization allows users to filter performance by Policy Type and visualize the Claim Status distribution.*
 
-![Policy Type and Claim Analysis](04_Policy_Claim_Breakdown.jpg)
+![Policy Type and Claim Analysis](04_Policy_Claim_Breakdown.png)
 
 ### 3. Customer Demographic Analysis
 *This chart helps identify age and gender segments associated with different risk profiles.*
 
-![Customer Demographic Insight](05_Customer_Demographics.jpg)
+![Customer Demographic Insight](05_Customer_Demographics.png)
 
 ---
 
@@ -50,7 +50,7 @@ The Power BI dashboard provides a single source of truth for the insurance portf
 | File | Description |
 | :--- | :--- |
 | `01_Policy_Data.csv` | The raw, anonymized transactional policy and claim data. |
-| **`02_Customer_Feedback_Data.csv`** | **The raw text data used for Sentiment Analysis (NLP).** |
+| **`02_Customer_Feedback_Data.xlsx`** | **The raw text data used for Sentiment Analysis (NLP).** |
 | `Insurance_BI_Report_Template.pbit` | The Power BI Report Template file, which includes the data model, measures (DAX), and complete dashboard layout. |
 | `03_Portfolio_Performance.png`, etc. | Images showcasing the final dashboard design and key findings. |
 
