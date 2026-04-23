@@ -58,5 +58,5 @@ The Power BI dashboard provides a single source of truth for the insurance portf
 
 ## 💡 Key Findings
 
-* **[Insert a key finding here, e.g.]** The **Health** policy segment shows the highest Claim Ratio, indicating a potential need for premium adjustments or a review of coverage limits in this category.
-* **[Insert a second key finding here, e.g.]** Claims submitted by customers over **65 years of age** have a longer average 'Pending' duration, suggesting a bottleneck in the manual review process for high-age policies.
+* The **Health** policy segment shows the highest Claim Ratio, indicating a potential need for premium adjustments or a review of coverage limits in this category.
+* Claims submitted by customers over **65 years of age** have a longer average 'Pending' duration, suggesting a bottleneck in the manual review process for high-age policies.
